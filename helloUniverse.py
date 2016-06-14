@@ -6,8 +6,9 @@ def hello(who):
   print("Hi to you, " + who)
 
 
-hello("moo")
 hello("foo")
+hello("moo")
+hello("goo")
 hello("poo")
 hello("too")
 hello("yoo")
